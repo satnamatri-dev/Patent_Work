@@ -190,12 +190,13 @@ flowchart TB
     ER --> RE
     RE --> UI
     
-    style UI fill:#e3f2fd,stroke:#1976d2
-    style NLP fill:#e8f5e9,stroke:#388e3c
-    style QP fill:#fff3e0,stroke:#388e3c
-    style QE fill:#fff3e0,stroke:#f57c00
-    style ER fill:#e8f5e9,stroke:#388e3c
-    style RE fill:#e8f5e9,stroke:#388e3c
+   style UI fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+    style NLP fill:#e8f5e9,stroke:#1b5e2,stroke-width:2px
+    style QP fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px
+    style QE fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px
+    style ER fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px
+    style RE fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px
+
 ```
 
 ### Tech Stack
