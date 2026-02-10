@@ -191,8 +191,8 @@ flowchart TB
     RE --> UI
     
     style UI fill:#e3f2fd,stroke:#1976d2
-    style NLP fill:#e8f5e9,stroke:#f57c00
-    style QP fill:#fff3e0,stroke:#f57c00
+    style NLP fill:#e8f5e9,stroke:#388e3c
+    style QP fill:#fff3e0,stroke:#388e3c
     style QE fill:#fff3e0,stroke:#f57c00
     style ER fill:#e8f5e9,stroke:#388e3c
     style RE fill:#e8f5e9,stroke:#388e3c
